@@ -1,0 +1,31 @@
+**pycache**/
+*.pyc
+
+# Local downloaded images
+
+images/
+downloads/
+*.webp
+*.jpg
+*.jpeg
+*.png
+
+# Local files
+
+page.html
+
+# Virtual environment
+
+venv/
+.venv/
+env/
+
+# IDE files
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
